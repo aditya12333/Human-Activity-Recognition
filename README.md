@@ -40,3 +40,11 @@ For all these features they have calculated different values like mean, standard
 * Data Cleaning: Cleaning the dataset using pandas and numpy, handling null values.
 * EDA: Performing exploratory data analysis, Univariate analysis, applying t-SNE to check separability of data points.
 * Model building: For the expert engineered features we will build classical ML model and for raw time series data we will use deep learning model like LSTM.
+
+### Visulization
+![Screenshot (331)](https://user-images.githubusercontent.com/54364376/165042777-bd567936-54c5-4167-ab92-880df056b400.png)
+![Screenshot (332)](https://user-images.githubusercontent.com/54364376/165042807-4ea14909-b29d-4e19-ad01-6a2ec728c52d.png)
+![Screenshot (333)](https://user-images.githubusercontent.com/54364376/165042825-a94505df-142a-4721-bebb-b1bbee1a5a33.png)
+![Screenshot (334)](https://user-images.githubusercontent.com/54364376/165042856-e268e711-be56-4f13-a580-3532ce8f8c76.png)
+
+
