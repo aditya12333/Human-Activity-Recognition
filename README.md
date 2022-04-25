@@ -48,3 +48,19 @@ For all these features they have calculated different values like mean, standard
 ![Screenshot (334)](https://user-images.githubusercontent.com/54364376/165042856-e268e711-be56-4f13-a580-3532ce8f8c76.png)
 
 
+
+
+## Algorithm For classical ML model
+
+| Algorithms                    | Score         | Error |
+| ------------------------------|:-------------:| -----:|
+| Logistic Regression           | 96.27%        | 3.733%|
+| SVM                           | 96.27%        | 3.733%|
+| Random Forest                 | 92.06%        | 7.94% |
+| Decision Tree                 | 83.81%        | 16.19%|
+
+## Algorithm For Deep Learning Model
+
+| Algorithms                    | Score         | loss  |
+| ------------------------------|:-------------:| -----:|
+| LSTM                          | 60%           | 0.7   |
