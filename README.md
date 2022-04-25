@@ -34,3 +34,9 @@ For all these features they have calculated different values like mean, standard
 #### Model Building Approach
 * For the expert engineered features we will build classical ML model.
 * For raw time series data we will use deep learning model like LSTM.
+
+## Approach
+* Data Exploration: Exploring the dataset using pandas, numpy etc.
+* Data Cleaning: Cleaning the dataset using pandas and numpy, handling null values.
+* EDA: Performing exploratory data analysis, Univariate analysis, applying t-SNE to check separability of data points.
+* Model building: For the expert engineered features we will build classical ML model and for raw time series data we will use deep learning model like LSTM.
