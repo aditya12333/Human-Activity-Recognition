@@ -30,3 +30,7 @@ People who created these data, in addition to giving time series, data they have
 * fBodyGyroJerkMag
 
 For all these features they have calculated different values like mean, standard deviation, max, min, energy etc.
+
+#### Model Building Approach
+* For the expert engineered features we will build classical ML model.
+* For raw time series data we will use deep learning model like LSTM.
