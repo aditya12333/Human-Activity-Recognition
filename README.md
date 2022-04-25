@@ -9,3 +9,24 @@ Every people have smartphone. These smartphone contains many sensors. Two of the
 ### Data Understanding
 The data is collected from 30 people in a lab manually by putting these sensors on their body while performing these activities. The data recorded with sensors in smartphone. These experiment was video recorded and to label data manually.
 By using sensors, they have catured the 3-axial angular velocity from gyroscope and 3 axial linear acceleration using accelerometer with several variation. The data also contain the time series.
+
+People who created these data, in addition to giving time series, data they have also designed some features like:
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyro-XYZ
+* tBodyGyroJerk-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyro-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
+
+For all these features they have calculated different values like mean, standard deviation, max, min, energy etc.
